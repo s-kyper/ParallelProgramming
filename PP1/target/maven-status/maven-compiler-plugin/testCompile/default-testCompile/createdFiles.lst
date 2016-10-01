@@ -1,0 +1,17 @@
+test\java\ru\ifmo\pp\SequentialBank$Account.class
+test\java\ru\ifmo\pp\Stats.class
+test\java\ru\ifmo\pp\LinearizabilityTest$TestThread.class
+test\java\ru\ifmo\pp\MTStressTest$TestThread.class
+test\java\ru\ifmo\pp\Operation.class
+test\java\ru\ifmo\pp\Operation$Transfer.class
+test\java\ru\ifmo\pp\LinearizabilityTest.class
+test\java\ru\ifmo\pp\MTStressTest.class
+test\java\ru\ifmo\pp\SequentialBank$1.class
+test\java\ru\ifmo\pp\ResultsHash.class
+test\java\ru\ifmo\pp\Operation$Deposit.class
+test\java\ru\ifmo\pp\Operation$GetTotalAmount.class
+test\java\ru\ifmo\pp\Operation$GetAmount.class
+test\java\ru\ifmo\pp\FunctionalTest.class
+test\java\ru\ifmo\pp\SequentialBank.class
+test\java\ru\ifmo\pp\Operation$Withdraw.class
+test\java\ru\ifmo\pp\Results.class
